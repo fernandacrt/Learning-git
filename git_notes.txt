@@ -9,3 +9,6 @@ git add [filename]
 file to staging
 
 git commit -m "[message]" [filename]
+
+git log
+- shows commit history
