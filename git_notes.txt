@@ -13,3 +13,6 @@ adds a file to staging
 
 `git log`
 shows commit history
+
+I was added on github
+YAY!!!!!!
