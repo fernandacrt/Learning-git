@@ -1,0 +1,15 @@
+# Git Notes
+
+`git init`
+creates a git repository
+
+`git status`
+shows status of a repository
+
+`git add [filename]`
+adds a file to staging
+
+`git commit -m "[message]" [filename]`
+
+`git log`
+shows commit history
