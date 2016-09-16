@@ -12,3 +12,6 @@ git commit -m "[message]" [filename]
 
 git log
 - shows commit history
+
+ready for git hub
+fsdfsdf
