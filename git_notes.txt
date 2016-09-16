@@ -15,3 +15,7 @@ adds a file to staging
 shows commit history
 
 Hello
+I was added on github
+YAY!!!!!!
+
+Huhuhu I have a very first github
